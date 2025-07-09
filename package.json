@@ -1,0 +1,12 @@
+{
+  "name": "hoian-insider-demo",
+  "version": "1.0.0",
+  "description": "CLASSIFIED - Discover Hoi An's Hidden Gems",
+  "scripts": {
+    "dev": "echo 'Open index.html in your browser'",
+    "build": "echo 'No build required'"
+  },
+  "keywords": ["hoian", "social", "insider", "demo"],
+  "author": "IslandHopper-403",
+  "license": "MIT"
+}
